@@ -1,2 +1,2 @@
 # Stocks-Portfolio
-R Package ‘PerformanceAnalytics’ - Template code to create a Stock protfolio 
+R Package ‘PerformanceAnalytics’ - Template code to create a Stock portfolio 
